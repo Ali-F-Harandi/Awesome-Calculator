@@ -1,0 +1,5 @@
+{
+  "name": "Awesome Calculator",
+  "description": "A bilingual, responsive, and robust calculator application supporting basic arithmetic and complex expression parsing. Designed for GitHub Pages deployment.",
+  "requestFramePermissions": []
+}
