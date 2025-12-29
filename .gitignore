@@ -1,0 +1,7 @@
+node_modules
+dist
+.env
+*.bat
+*.log
+DEPLOY_SCRIPT.txt
+DEPLOY_SCRIPT.bat
